@@ -1,9 +1,11 @@
-# Hello! I'm Karina Barros. 👋 
+<div align="center">
+  
+  # Hello! I'm Karina Barros. 👋 
 
 Data Science student with a background in Chemical Engineering.
 
 As a resilient professional with a mindset for excellence, I'm always eager to learn, grow, and apply my knowledge to improve processes and deliver high-quality results.
-
+</div>
 
 ## 🛠 Skills
 
