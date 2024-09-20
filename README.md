@@ -29,7 +29,7 @@ As a resilient professional with a mindset for excellence, I'm always eager to l
 
 ## 📂 Portfolio & Social Media
 
-- [Portfolio](#) (Coming Soon!)
+- [Portfolio](https://sites.google.com/view/karinabarros) (Coming Soon!)
 - [LinkedIn](https://www.linkedin.com/in/karina-barros/)
 
 ## 📊 GitHub Stats
